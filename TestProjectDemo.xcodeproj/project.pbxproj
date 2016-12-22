@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -46,6 +46,7 @@
 				D0218AC61E0BD64F00E5406C /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		D0218AC61E0BD64F00E5406C /* Products */ = {
 			isa = PBXGroup;
@@ -116,7 +117,7 @@
 				};
 			};
 			buildConfigurationList = D0218AC01E0BD64F00E5406C /* Build configuration list for PBXProject "TestProjectDemo" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (

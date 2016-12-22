@@ -296,8 +296,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cbw.ProjectDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "85694808-2f33-4751-8e0d-3ea5bed06c57";
-				PROVISIONING_PROFILE_SPECIFIER = "TestProjectDemo-distribution";
+				PROVISIONING_PROFILE = "4c799cdc-eccb-47a8-b697-bf8ecba08fab";
+				PROVISIONING_PROFILE_SPECIFIER = "XC Wildcard (3ZDX854EGM.*)distribution";
 			};
 			name = Release;
 		};
